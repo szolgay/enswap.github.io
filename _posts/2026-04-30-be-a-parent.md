@@ -2,7 +2,7 @@
 title: 'What does it mean to be a ‘Waldorf Parent’?'
 date: 2026-04-30T18::00+00:00
 author: Andrej Szolgay
-excerpt: 'Inspiring Cooperation Between Teachers and Parents in Schools'
+excerpt: 'Through reflection and open dialogue, we will explore how parents can engage meaningfully with Waldorf education'
 permalink: /2026/04/30/to-be-a-waldorf-parent/
 layout: single
 header:
