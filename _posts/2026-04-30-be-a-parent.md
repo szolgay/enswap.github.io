@@ -1,5 +1,5 @@
 ---
-title: 'What does it mean to be a �Waldorf Parent�?'
+title: 'What does it mean to be a ‘Waldorf Parent’?'
 date: 2026-04-30T18::00+00:00
 author: Andrej Szolgay
 excerpt: 'Inspiring Cooperation Between Teachers and Parents in Schools'
@@ -33,10 +33,8 @@ Whether you are new to Waldorf education, a long-standing school community
 member, or an educator working alongside families, this webinar offers 
 space for reflection, connection, and inspiration.
 
-**Speaker: Rachel Ford Blanchard**
-- Head of Early Childhood at Michael Hall School 
-- Waldorf parent, teacher, teacher-educator
-- Lecturer at Sheffield Hallam University
+**Speaker: Rachel Ford Blanchard** \
+Head of Early Childhood at Michael Hall School · Waldorf parent, teacher, teacher-educator · Lecturer at Sheffield Hallam University \
 
 Date: Wednesday, 20 May 2025, at 19:00 CEST.
 
